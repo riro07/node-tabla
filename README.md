@@ -1,5 +1,5 @@
 # Notas
-Este es mi primer programa en node
+Comandos para la consola
 
 ```
 Opciones:
