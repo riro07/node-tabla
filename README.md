@@ -1,5 +1,5 @@
 # Notas
-Comandos para la consola
+Comandos para la consola. Ej: node app -b 5 -l -h 10
 
 ```
 Opciones:
